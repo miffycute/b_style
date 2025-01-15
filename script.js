@@ -1,6 +1,6 @@
 // Initialize AOS
 AOS.init({
-    duration: 1000,
+    duration: 1300,
     once: true
 });
 
